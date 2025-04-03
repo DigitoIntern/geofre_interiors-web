@@ -4,7 +4,7 @@
 
             <div class="col-md-4">
                 <img src="assets/imgs/cfact.jpeg" alt="Company Logo" class="img-fluid mb-3"
-                    style="text-align:center width: 150px;border-radius: 50%">
+                    style="text-align:center; height:150px; width: 150px;border-radius: 50%">
                 
             </div>
             <div class="col-md-4">
